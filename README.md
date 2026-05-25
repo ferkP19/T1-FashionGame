@@ -1,4 +1,4 @@
-# T1-FashionGame 
+# T1-FashionGame :)
 
 ## 1. Compilación del programa  
 Este pequeño proyecto puede compilarse ya sea en VS CODE o directamente en la terminal con el compilador de g++ usando el siguiente comando:
